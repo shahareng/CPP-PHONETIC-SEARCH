@@ -4,7 +4,7 @@
  * 
  * IMPORTANT: Please write more tests - the tests here are only for example and are not complete.
  *
- * AUTHORS: Shahar Engel
+ * AUTHORS: Shahar Engel, Odeya Molodic
  * 
  * Date: 2020-02
  */
